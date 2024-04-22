@@ -10,7 +10,7 @@ Find the Journal discussion here: [Module2Journal_JosephVeneski.docx](Module2Jou
   2. Write code to prevent a suspected SQL injection attack
   3. Decide how to react when there is an attempted SQL injection attack
   4. Protect your code from SQL injection attacks\
-See code modifications in this file: [Mod2SQLInjection_Veneski/Module2SQLInjection_Veneski.cpp](Mod2SQLInjection_Veneski/Module2SQLInjection_Veneski.cpp)
+See code modifications in this file: [Mod2SQLInjection_Veneski/Module2SQLInjection_Veneski.cpp](Module2SQLInjection_Veneski/Module2SQLInjection_Veneski.cpp)
  
 - Buffer Overflow Coding
   1. Detect when a buffer overflow is about to happen
