@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\jcven\Desktop\CS-405\Module3\UnitTests_Module3_JosephVeneski\UnitTests_Module3_JosephVeneski\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jcven\Desktop\CS-405\Module3\UnitTests_Module3_JosephVeneski\UnitTests_Module3_JosephVeneski\test.cpp(311,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\jcven\Desktop\CS-405\Module3\UnitTests_Module3_JosephVeneski\UnitTests_Module3_JosephVeneski\test.cpp(314,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  UnitTests_Module3_JosephVeneski.vcxproj -> C:\Users\jcven\Desktop\CS-405\Module3\UnitTests_Module3_JosephVeneski\Debug\UnitTests_Module3_JosephVeneski.exe

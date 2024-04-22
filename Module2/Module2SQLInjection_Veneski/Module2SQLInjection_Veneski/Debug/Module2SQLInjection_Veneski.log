@@ -1,0 +1,15 @@
+﻿  Module2SQLInjection_Veneski.cpp
+C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski.cpp(126,1): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski.cpp(126,28): warning C4309: 'argument': truncation of constant value
+C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski.cpp(128,1): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski.cpp(128,28): warning C4309: 'argument': truncation of constant value
+C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski\Module2SQLInjection_Veneski.cpp(257,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Module2SQLInjection_Veneski.vcxproj -> C:\Users\jcven\Desktop\CS-405\Module2\Module2SQLInjection_Veneski\Debug\Module2SQLInjection_Veneski.exe
