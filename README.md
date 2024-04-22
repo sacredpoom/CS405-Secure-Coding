@@ -16,5 +16,5 @@ A transcript was created as well for accessability which you can read here: [CS 
 
 Also included in this repository is the coursework completed in addition to the main project in each folder with a readme to describe and link to relevant parts. 
 
-Final reflection here:
+Final reflection here: [Portfolio_Reflection.docx](Portfolio_Reflection.docx)
 
