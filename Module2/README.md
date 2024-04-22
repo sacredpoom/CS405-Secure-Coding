@@ -16,5 +16,5 @@ See code modifications in this file: [Mod2SQLInjection_Veneski/Module2SQLInjecti
   1. Detect when a buffer overflow is about to happen
   2. Write code to prevent a buffer overflow
   3. Decide how to react when the user attempts a buffer overflow
-  4. Protect your code from a buffer overflow/
+  4. Protect your code from a buffer overflow\
 See code modifications in this file: [Mod2BufferOverflow_Veneski.cpp](Mod2BufferOverflow_Veneski/Mod2BufferOverflow_Veneski/Mod2BufferOverflow_Veneski.cpp)
