@@ -7,11 +7,11 @@ This week's assignment goals were:
   4. Throw a standard C++ exception
   5. Create, throw, and catch a custom exception
  
-See code changes here: [Exceptions.cpp](Exceptions/Exceptions/Exceptions.cpp)
-See the written summary here: [Module4ExceptionsSummary_JosephVeneski.docx](Module4ExceptionsSummary_JosephVeneski.docx)
+See code changes here: [Exceptions.cpp](Exceptions/Exceptions/Exceptions.cpp)\
+See the written summary here: [Module4_ExceptionsSummary_JosephVeneski.docx](Module4_ExceptionsSummary_JosephVeneski.docx)
 
 - Unit Testing\
 Create several positive and negative unit tests.
 
-See code here: [test.cpp](UnitTests_Module3_JosephVeneski/UnitTests_Module3_JosephVeneski/test.cpp)
+See code here: [test.cpp](UnitTests_Module3_JosephVeneski/UnitTests_Module3_JosephVeneski/test.cpp)\
 See the written summary here: [Module4_UnitTestSummary_JosephVeneski.docx](Module4_UnitTestSummary_JosephVeneski.docx)
